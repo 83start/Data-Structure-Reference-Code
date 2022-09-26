@@ -1,0 +1,7 @@
+ArrayList:  [A, B, C, D]
+ArrayList->LinkedList
+LinkedList: [A, B, C, D]
+Çå¿ÕLinkedList²¢Ìí¼Ó1,2,3
+LinkedList: [1, 2, 3]
+LinkedList->ArrayList
+ArrayList:  [1, 2, 3]
